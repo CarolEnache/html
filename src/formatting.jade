@@ -1,0 +1,41 @@
+extends _layouts/base
+
+include _modules/link/link
+
+block content
+  .content
+    div
+      ul
+        each item in site.data.menu
+          li #{item.name}
+      h1 text formatting 
+        i are nevoie de clarificari
+        
+      br
+      div
+        b This text is bold
+      div
+        strong this text is strong 
+      div
+        i this text is italic
+      div
+        em this text is emphasized
+        p this word is 
+          b bold
+        h2 HTML 
+          small Small 
+          |Formating
+        p HTML 
+          mark Marked
+          span #{' '}Formating
+          <!--nu stiu cum sa pastrz spatiu intre cuvinte fara sa se extinda culoarea galben-->
+        p My favorite color is 
+          del blue 
+          |red.
+        p My favorite <ins>color</ins> is red.
+        p My favorite color is <del>blue</del> <ins>red</ins>.
+        p This is 
+          sub subscripted 
+          |text.
+        p this is <sup>superscripted</sup> text.
+    include _modules/menu

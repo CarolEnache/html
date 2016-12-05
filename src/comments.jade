@@ -1,0 +1,14 @@
+extends _layouts/base
+
+include _modules/link/link
+
+block content
+	.content
+		div
+			p Hidden comment:
+			<!--this is a comment -->
+			p conditional comments:
+			<!--[if IE 5]> This is IE 5 <br><![endif]-->
+			p comments for debugging
+			<!-- Do not display this at the moment <img border="0" scr="pic_whatever.jpg" alt="Mountain">-->
+		include _modules/menu

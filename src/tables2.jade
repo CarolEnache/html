@@ -1,0 +1,23 @@
+extends _layouts/base
+
+include _modules/link/link
+
+block content
+    style
+      | .table, th, td {
+      |   border: 1px solid black; // hh
+      | }
+
+      table(style="width:100%")
+      tr
+        th First name
+        th Last name
+        th Age
+      tr 
+        td Eve
+        td Jackson
+        td 94
+      p
+       |  salut mestere
+       |  Ce mai faci
+    include _modules/menu

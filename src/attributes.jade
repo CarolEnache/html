@@ -1,0 +1,16 @@
+extends _layouts/base
+
+include _modules/link/link
+
+block content
+	.content
+		div
+			p(title="I`m a tooltip") This is a paragraph
+				img(src="favicon.ico" width="54" height="72")
+			hr
+			img(scr="favicon.ico" alt="google.com" width="60" height="80")
+			hr
+			a(href="http://www.google.com") This is a Link 
+			img(src="images/DSC02607.jpg", width="200px")
+
+		include _modules/menu

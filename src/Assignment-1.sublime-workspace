@@ -1,0 +1,662 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"po",
+				"position"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"m",
+				"margin-right"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"border-s",
+				"border-spacing"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"border-",
+				"border-collapse"
+			],
+			[
+				"table",
+				"table"
+			],
+			[
+				"b",
+				"black"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"Wo",
+				"world"
+			],
+			[
+				"al",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/sfihikatia/assigment-1/src/contact.jade",
+			"settings":
+			{
+				"buffer_size": 123,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/sfihikatia/assigment-1/src/_modules/menu.jade",
+			"settings":
+			{
+				"buffer_size": 90,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/sfihikatia/assigment-1/tmp/contact.html",
+			"settings":
+			{
+				"buffer_size": 856,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/sfihikatia/assigment-1/tmp/index.html",
+			"settings":
+			{
+				"buffer_size": 1220,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/sfihikatia/assigment-1/src/_data/menu.json",
+			"settings":
+			{
+				"buffer_size": 170,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/sfihikatia/assigment-1/src/index.jade",
+			"settings":
+			{
+				"buffer_size": 341,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/sfihikatia/assigment-1/src/_modules/link/link.scss",
+			"settings":
+			{
+				"buffer_size": 219,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/sfihikatia/assigment-1/src/_styles/main.scss",
+			"settings":
+			{
+				"buffer_size": 1242,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sfihikatia/assigment-1",
+		"/Users/sfihikatia/assigment-1/src",
+		"/Users/sfihikatia/assigment-1/src/_data",
+		"/Users/sfihikatia/assigment-1/src/_images",
+		"/Users/sfihikatia/assigment-1/src/_layouts",
+		"/Users/sfihikatia/assigment-1/src/_modules",
+		"/Users/sfihikatia/assigment-1/src/_modules/link",
+		"/Users/sfihikatia/assigment-1/src/_scripts",
+		"/Users/sfihikatia/assigment-1/src/_styles",
+		"/Users/sfihikatia/assigment-1/tmp"
+	],
+	"file_history":
+	[
+		"/Users/sfihikatia/assigment-1/src/_data/menu.json",
+		"/Users/sfihikatia/projects/html/src/links.jade",
+		"/Users/sfihikatia/projects/html/src/_styles/main.scss",
+		"/Users/sfihikatia/projects/html/src/tables.jade",
+		"/Users/sfihikatia/projects/html/src/CSSfullDemo.jade",
+		"/Users/sfihikatia/projects/html/src/classes.jade",
+		"/Users/sfihikatia/projects/html/src/styles.jade",
+		"/Users/sfihikatia/projects/html/src/computercode.jade",
+		"/Users/sfihikatia/projects/html/src/comments.jade",
+		"/Users/sfihikatia/projects/html/src/attributes.jade",
+		"/Users/sfihikatia/projects/html/src/_scripts/main.js",
+		"/Users/sfihikatia/projects/html/src/_data/menu.json",
+		"/Users/sfihikatia/projects/html/src/quotations.jade",
+		"/Users/sfihikatia/projects/html/src/formatting.jade",
+		"/Users/sfihikatia/projects/html/src/_data/footer.json",
+		"/Users/sfihikatia/projects/html/src/_modules/menu.jade",
+		"/Users/sfihikatia/projects/html/src/tables2.jade",
+		"/Users/sfihikatia/projects/html/src/lists.jade",
+		"/Users/sfihikatia/projects/html/src/CSS.jade",
+		"/Users/sfihikatia/projects/html/src/headings.jade",
+		"/Users/sfihikatia/projects/html/src/_images/yeogurt-swirl.png",
+		"/Users/sfihikatia/projects/html/src/quoatition-citations.jade",
+		"/Users/sfihikatia/Desktop/CAROL ENACHE/Jewerly shop/style.css",
+		"/Users/sfihikatia/Desktop/CAROL ENACHE/style.css",
+		"/Users/sfihikatia/Desktop/CAROL ENACHE/index.html",
+		"/Users/sfihikatia/Desktop/CAROL ENACHE/html tags and descriptions"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"            \n",
+			"  #stergel2 td,\n  #stergel2 th,\n  #stergel2 {\n",
+			"\t\t\ttable#stergel2\n\t\t\t\ttr\n\t\t\t\t\tth First Name\n\t\t\t\t\tth Last Nam\n\t\t\t\t\tth Age\n\t\t\t\ttr\n\t\t\t\t\ttd Jill\n\t\t\t\t\ttd Smith\n\t\t\t\t\ttd 50\n\t\t\t\ttr\n\t\t\t\t\ttd Eve\n\t\t\t\t\ttd Jackson\n\t\t\t\t\ttd 94\n\t\t\t\ttr\n\t\t\t\t\ttd John\n\t\t\t\t\ttd Doe\n\t\t\t\t\ttd 80\n\t\t\thr\n",
+			":\n",
+			"table#stergel2\n\t\t\t\ttr\n\t\t\t\t\tth First Name\n\t\t\t\t\tth Last Nam\n\t\t\t\t\tth Age\n\t\t\t\ttr\n\t\t\t\t\ttd Jill\n\t\t\t\t\ttd Smith\n\t\t\t\t\ttd 50\n\t\t\t\ttr\n\t\t\t\t\ttd Eve\n\t\t\t\t\ttd Jackson\n\t\t\t\t\ttd 94\n\t\t\t\ttr\n\t\t\t\t\ttd John\n\t\t\t\t\ttd Doe\n\t\t\t\t\ttd 80\n\t\t\thr",
+			"\t\t\t\t\t\t\t\t\t\t\t\tcode var x = 5\n\t\t\t\t\t\t\t\t\t\t\t\thr\n\t\t\t\t\t\t\t\t\t\t\t\tp preserving whitespace and line-breacks:\n\t\t\t\t\t\t\t\t\t\t\t\tpre\n\t\t\t\t\t\t\t\t\t\t\t\t\tcode\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t|var x = 5\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t|var x = 6\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t|document.getElementById(\"demo\").inner\n\t\t\t\t\t\t\t\t\t\t\t\tp variable formatting:\n\t\t\t\t\t\t\t\t\t\t\t\tp Einstein wrote:\n\t\t\t\t\t\t\t\t\t\t\t\t\tvar E =\n\t\t\t\t\t\t\t\t\t\t\t\t\tvar m\n\t\t\t\t\t\t\t\t\t\t\t\t\tsup 2\n",
+			"CSSfullDemo",
+			"eee",
+			"130",
+			"1",
+			"}",
+			"table",
+			"table#stergel ",
+			"\"link:",
+			"\",",
+			") ",
+			"li\n\t\t\ta(href=",
+			"\"\n\t},",
+			"\"name\": \"",
+			",{",
+			"cities\t",
+			"(class=\"cities\")",
+			"img",
+			"center",
+			"comments",
+			"computercode",
+			"span",
+			"｜ ",
+			"=\"$\")",
+			"5"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/sfihikatia/assigment-1/src/contact.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/sfihikatia/assigment-1/src/_modules/menu.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 90,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/sfihikatia/assigment-1/tmp/contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 856,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/sfihikatia/assigment-1/tmp/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 317.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/sfihikatia/assigment-1/src/_data/menu.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/sfihikatia/assigment-1/src/index.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								325,
+								325
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/sfihikatia/assigment-1/src/_modules/link/link.scss",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/sfihikatia/assigment-1/src/_styles/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1240,
+								1240
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 2.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 27.0
+	},
+	"pinned_build_system": "",
+	"project": "Assignment-1.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/CAROL ENACHE/html.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

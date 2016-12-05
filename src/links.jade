@@ -1,0 +1,61 @@
+extends _layouts/base
+
+include _modules/link/link
+
+block content
+	.content
+		div
+			.cities
+				p 
+					b using an absolute URL:
+					a(href="http://www.w3schools.com/html/") Visit our HTML tutorial
+				hr
+				p 
+					b using a relative URL:
+				p 
+					b
+					a(href="html_images.asp") Html Images 
+						| is a link toa page on this website
+					hr
+
+			.cities
+				p 
+					a(href="http://www.w3.org/") W3C 
+						| is a link to a website on the World Wide Web.
+					p 
+					b changing the underline from links:
+					a(href="http://www.w3schools.com/html/" target="_blank") Visit our HTML tutorial!
+				p if you set the target attribute to "_blank", the link will opn in a new browser window.
+				hr
+				div.cities
+					p 
+					b An image as a link:
+					a(href="http://www.w3schools.com") This is a link
+							img(src="images/yeogurt-swirl.png", alt="yeogurt-swirl image logo")
+		
+				hr
+				h2 Creating a book mark:
+				p
+					a(href="#C4") Jump to Chapter 4
+				h2 Chapter 1
+				p This chapter explains bla bla bla 
+				h2 Chapter 2
+				p This chapter explains bla bla bla 
+				h2 Chapter 3
+				p This chapter explains bla bla bla 
+				h2(id="C4") Chapter 4
+				p This chapter explains bla bla bla 
+				h2 Chapter 5
+				p This chapter explains bla bla bla 
+				h2 Chapter 6
+				p This chapter explains bla bla bla
+				hr
+				div.cities
+					p A link that breaks out a frame:
+					p Locked in a frame? 
+						a(href="httpe://wwww.w3schools.com/html" target="_top") Click here!
+				hr
+				p A mail to link:
+				p This is an email link:
+					a(href="emailto:enache.carol@gmail.com?Subject=Hello%20again" target="_top") Send Mail
+		include _modules/menu

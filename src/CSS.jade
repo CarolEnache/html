@@ -1,0 +1,29 @@
+extends _layouts/base
+
+include _modules/link/link
+
+block content
+	.content
+		div(style="background-color:powderblue")
+			h1(style="color:blue") This is a blue heading
+			hr
+			p Internal CSS to be recap.
+			hr
+			p External CSS to be recap.
+			hr
+			p 
+			b CSS using the id attribure:
+			p(id="p01") This pargraph is modified using the "id" attribute
+			hr
+			p
+				b CSS using the "class" attribute:
+			p This is a paragraph
+			p This is another paragraph
+			p(class="error") This paragraph was modified using the "class" attribute
+			p This is another paragraph
+			p(class="error") This paragraph is using the same "class" attribute 
+			hr
+			p CSS border
+			<!--cum fac sa directionez o comanda din CSS catre o singura pagina?-->
+
+		include _modules/menu

@@ -1,0 +1,28 @@
+extends _layouts/base
+
+include _modules/link/link
+
+block content
+		.content
+				div
+					p imput exaple:
+					kbd File | Open
+					hr
+					p computer formatting example:
+					samp demo.example.com login Apr 12 09:10:17 Linux jhgjhgjh23322 
+					hr
+					p Programming code example:
+					code var x = 5
+					hr
+					p preserving whitespace and line-breacks:
+					pre
+						code
+						|var x = 5
+						|var x = 6
+						|document.getElementById("demo").inner
+						p variable formatting:
+						p Einstein wrote:
+							var E =
+							var m
+							sup 2
+				include _modules/menu

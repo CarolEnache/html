@@ -1,0 +1,35 @@
+extends _layouts/base
+
+include _modules/link/link
+
+block content
+	.content
+		div
+			p 
+				span WWWF1`s goal is to: 
+				span WWWF`s goal is to: 
+				span WWWF`s goal is to: 
+				span WWWF`s goal is to: 
+				q Build a future where people live in harmony with nature
+
+			blockquote(cite="http://www.worldwildlife.org/who/index.html")
+						|For 50 years, WWF has been protecting the future of nature.
+						|The world's leading conservation organization,
+						|WWF works in 100 countries and is supported by
+						|1.2 million members in the United States and
+						|close to 5 million globally.
+				address
+					|Written by John Doe
+					br
+					|Visit us at:
+					br
+					|Example.com
+					br
+					|Box 564, Disneyland
+					br
+					|USA
+				p The <abbr title="World Health Organization"> WHO </abbr> was founded in 1948.
+				p <cite>The scream</cite> by Edvard Munch. Painted in 1983.
+				bdo(dir="rtl") This line will be wrriten from right to left.
+
+		include _modules/menu

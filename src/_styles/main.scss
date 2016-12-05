@@ -1,0 +1,127 @@
+  // Normalize Styles
+  @import 'node_modules/normalize.css/normalize';
+
+  // Import Modules
+  @import '../_modules/link/link';
+.content {
+  display: flex;
+  & .menu {
+    background-color: #eee;
+    order: -1;
+    ul {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+}
+  ul li {
+    display: inline-block;
+    padding: 0.3rem;
+    & a:hover {
+      background-color: #c00;
+      color: white;
+    }
+  }
+
+  // Box sizing partial styles:
+  // Apply a natural box layout model to all elements
+  *,
+  *:before,
+  *:after {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+
+  .yeogurt-info {
+    text-align: center;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .version {
+    font-size: 14px;
+    font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+  }
+
+  .logo {
+    margin-top: 15px;
+  }
+
+  // Styling on warning for users on IE7 or below
+  .browsehappy {
+    text-align: center;
+    margin: 0;
+    background: #fff8e2;
+    color: #000;
+    padding: 0.5em 0;
+  }
+  .cities {
+    background-color:black;
+    color:white;
+    margin:20px;
+    padding:20px;
+  }
+  .note {
+    font-size:180%;
+    color:red;
+  }
+  a:link {
+    color:green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color:blue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  #p01{
+    color:blue;
+  }
+
+  p.error{
+    color:red;
+    border: 1px solid black;
+    padding: 30px;
+    margin: 50px
+  }
+  table, th, td {
+    border: 1px solid black;
+    border-spacing: 15px;
+  }
+
+  #stergel1, 
+  #stergel1 th, 
+  #stergel1 td {
+    padding: 15px;
+  }
+  #stergel2,
+  #stergel2 th,
+  #stergel2 td {
+    padding: 5px;
+    text-align: left;
+  }
+
+  #stergel3,
+  #stergel3 th,
+  #stergel3 td {
+    padding: 5px;
+    border-collapse: 0
+    ;
+  }

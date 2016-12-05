@@ -1,0 +1,173 @@
+extends _layouts/base
+
+include _modules/link/link
+
+block content
+	.content
+		div
+			h2 HTML Tables
+				p HTML tables start with a table tag
+				p Table row start with a tr tag
+				p table data start with a td tag
+				hr
+			h2 1 Column
+				table
+					tr
+						td 100
+			hr
+			h2 Row and 3 Columns
+			table
+				tr
+					td 400
+					th 500
+					td 600
+
+			table
+				tr
+					td 700
+					th 800
+					td 900	
+			hr
+			h2 A table with borders:
+			table(style="width:100%") 
+				tr
+					th First Name
+					th Last Nam
+					th Age
+				tr
+					td Jill
+					td Smith
+					td 50
+				tr
+					td Eve
+					td Jackson
+					td 94
+				tr
+					td John
+					td Doe
+					td 80
+			hr
+			h2 Collapse borders:
+
+			table(style="width:100%") 
+				tr
+					th First Name
+					th Last Nam
+					th Age
+				tr
+					td Jill
+					td Smith
+					td 50
+				tr
+					td Eve
+					td Jackson
+					td 94
+				tr
+					td John
+					td Doe
+					td 80
+			hr
+			h2 Cell Padding:
+
+			table#stergel1(style="width:100%")
+				tr
+					th First Name
+					th Last Nam
+					th Age
+				tr
+					td Jill
+					td Smith
+					td 50
+				tr
+					td Eve
+					td Jackson
+					td 94
+				tr
+					td John
+					td Doe
+					td 80
+			hr
+			h2 Left-aligned headings:
+			
+			table#stergel2(style="width:100%") 
+				tr
+					th First Name
+					th(colspan="2") 
+						i this is a colspan
+				tr
+					td Jill
+					td Smith
+					td 50
+				tr
+					td Eve
+					td Jackson
+					td 94
+				tr
+					td John
+					td Doe
+					td 80
+			hr
+			h2 Vertical table Heading:
+			table#stergel2(style="width:100%") 
+				caption This title is a 
+					b Caption
+				tr
+					th First Name:
+					td Bill Gates
+				tr
+					th(rowspan="2") Telephone: 
+						i rowspan
+					td 555 77 854
+				tr
+					td 555 77 855
+				
+			hr
+			h2 Cells spacing:
+
+			table#stergel3(style="width:100%")
+				tr
+					th First Name
+					th Last Name
+					th Age
+				tr
+					td Jill
+					td Smith
+					td 50
+				tr
+					td Eve
+					td Jackson
+					td 94
+				tr
+					td John
+					td Doe
+					td 80
+			hr
+			h2 Tables with HTML inside:
+
+			table(style="width:100%")
+				tr
+					td
+						p This is a Paragraph
+						p This is another Paragraph
+					td
+							tabel
+								tr
+									td A
+									td B
+								tr 
+									td C
+									td D
+				tr
+					td
+						p This is a list:
+							ul
+								li pineaple
+								li apple
+								li coconut
+					td
+						p Hello  
+
+
+
+
+		include _modules/menu
